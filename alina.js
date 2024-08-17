@@ -7,6 +7,14 @@ console.log('We are learning GitHub');
 console.log('This is a nice class');
 console.log('Hello World');
 
+function hi(){
+  console.log('Hi');
+}
+
+function abc(){
+    console.log('Hi');
+  }
+
 function random() {
   
 }

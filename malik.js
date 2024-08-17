@@ -4,6 +4,12 @@
 
 // hey how are ya
 
-let Malik{
 
+function hi(){
+  console.log('Hi');
 }
+
+let Malik
+
+
+

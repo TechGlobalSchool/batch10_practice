@@ -2,3 +2,7 @@
 
 //Data
 //Testing
+
+function hi(){
+  console.log('Hi');
+}

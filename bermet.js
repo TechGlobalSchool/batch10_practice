@@ -9,3 +9,6 @@ if(name.length >= 6) console.log('true');
 
 
 
+function hi(){
+  console.log('Hi');
+}
