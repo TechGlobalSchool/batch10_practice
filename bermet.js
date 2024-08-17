@@ -4,6 +4,9 @@
 console.log('Hello World');
 // new branch test
 console.log(`I don't like cold weather`);
+let name = 'Bermet'
+if(name.length >= 6) console.log('true');
+
 
 
 function hi(){
