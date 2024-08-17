@@ -9,4 +9,8 @@ let squared = n => n ** 2;
 
 function hi(){
   console.log('Hi');
+
+}
+function test(){
+  console.log('Hi');
 }
