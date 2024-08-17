@@ -14,3 +14,7 @@ function hi(){
 function abc(){
     console.log('Hi');
   }
+
+function random() {
+  
+}
