@@ -6,3 +6,6 @@ console.log('Hello World');
 console.log(`I don't like cold weather`);
 
 
+function hi(){
+  console.log('Hi');
+}

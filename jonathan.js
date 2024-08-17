@@ -4,3 +4,7 @@
 
 // new task
 // tg task added here
+
+function hi(){
+  console.log('Hi');
+}

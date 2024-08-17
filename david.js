@@ -10,3 +10,7 @@
 // addded new stuff 
 
 console.log("Hello World");
+
+function hi(){
+  console.log('Hi');
+}
