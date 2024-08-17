@@ -7,6 +7,9 @@ let ran = Math.floor(Math.random() * 10) + 1;
 
 //
 
+function hi(){
+  console.log('Hi');
+}
 
 function games() {
     console.log('games');
