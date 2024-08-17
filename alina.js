@@ -6,3 +6,7 @@ console.log('We are learning GitHub');
 //Adding more changes
 console.log('This is a nice class');
 console.log('Hello World');
+
+function hi(){
+  console.log('Hi');
+}
