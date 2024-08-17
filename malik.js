@@ -9,7 +9,7 @@ function hi(){
   console.log('Hi');
 }
 
-let Malik{
+let Malik
 
-}
+
 
