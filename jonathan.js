@@ -19,3 +19,7 @@ function test(){
 function testTech() {
   
 }
+
+function multiplication(x, y) {
+    return x * y;
+}
