@@ -19,3 +19,5 @@ function test(){
 function testTech() {
   
 }
+
+// This is TechGlobal adding for conflict

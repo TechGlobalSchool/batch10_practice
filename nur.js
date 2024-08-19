@@ -7,3 +7,5 @@ console.log("i love tech global school");
 function hi(){
   console.log('Hi');
 }
+
+// This is TechGlobal adding for conflict
