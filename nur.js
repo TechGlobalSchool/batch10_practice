@@ -9,3 +9,6 @@ function hi(){
 }
 
 // This is TechGlobal adding for conflict
+
+
+let = "github lessons";
