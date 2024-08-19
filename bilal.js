@@ -1,1 +1,3 @@
-console.log('This is Bilal')
+function greeting() {
+    console.log('This is Bilal');
+}
