@@ -9,3 +9,6 @@ function hi(){
 }
 
 // This is TechGlobal adding for conflict
+
+let conflick = "lesson";
+console.log(`added a new line for conflick ${conflick}`);
