@@ -19,3 +19,7 @@ function test(){
 function testTech() {
   
 }
+
+function findMax(a, b){
+  return Math.max(a, b);
+}
