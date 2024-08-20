@@ -19,3 +19,5 @@ function random() {
   
 }
 //homework - adding a new line
+
+console.log('We are learning JS arrays');
