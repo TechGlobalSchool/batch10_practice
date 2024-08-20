@@ -5,3 +5,5 @@
 function greeting() {
     console.log('This is Bilal');
 }
+
+//added Bilal's new task
