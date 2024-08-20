@@ -4,3 +4,20 @@
 
 // new task
 // tg task added here
+
+let squared = n => n ** 2;
+
+function hi(){
+  console.log('Hi');
+
+}
+
+function test(){
+  console.log('Hi');
+}
+
+function testTech() {
+  
+}
+
+// This is TechGlobal adding for conflict

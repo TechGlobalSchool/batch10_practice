@@ -2,5 +2,9 @@ new try again
 test
 test123
 
+function hi(){
+  console.log('Hi');
+}
 
+// This is TechGlobal adding for conflict
 
