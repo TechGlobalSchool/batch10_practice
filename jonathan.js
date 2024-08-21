@@ -19,3 +19,5 @@ function test(){
 function testTech() {
   
 }
+
+console.log('This is a test');

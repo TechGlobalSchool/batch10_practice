@@ -11,5 +11,4 @@ function hi(){
 
 let Malik
 
-
-
+console.log('This is a test');
