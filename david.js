@@ -18,3 +18,4 @@ function hi(){
   console.log('Hi');
 }
 
+// This is group github class practice from Malik 
