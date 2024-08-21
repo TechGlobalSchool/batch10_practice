@@ -10,3 +10,4 @@
 // addded new stuff 
 
 console.log("Hello World");
+//This is practice in class 
