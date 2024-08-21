@@ -21,3 +21,5 @@ function random() {
 //homework - adding a new line
 
 // This is TechGlobal adding for conflict
+
+// new comment
