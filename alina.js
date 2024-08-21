@@ -11,4 +11,15 @@ function hi(){
   console.log('Hi');
 }
 
+function abc(){
+    console.log('Hi');
+  }
+
+function random() {
+  
+}
+//homework - adding a new line
+
+// This is TechGlobal adding for conflict
+
 // This is new line
