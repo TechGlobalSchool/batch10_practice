@@ -7,3 +7,4 @@ console.log("i love tech global school");
 function hi(){
   console.log('Hi');
 }
+// This is new line

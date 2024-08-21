@@ -11,4 +11,4 @@ function hi(){
 let ran = Math.floor(Math.random * 10) + 1;
 
 console.log(ran);
-
+// This is new line
