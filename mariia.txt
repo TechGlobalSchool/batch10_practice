@@ -9,3 +9,5 @@ You always create a branch from an existing branch. Typically, you might create 
 function hi(){
   console.log('Hi');
 }
+
+// This is TechGlobal adding for conflict
