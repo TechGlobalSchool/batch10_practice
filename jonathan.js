@@ -12,6 +12,18 @@ function hi(){
 
 }
 
+
+
+
+
+
+
+
+// This is group github class practice from Malik 
+
+
+}
+
 function test(){
   console.log('Hi');
 }
@@ -21,3 +33,5 @@ function testTech() {
 }
 
 // This is TechGlobal adding for conflict
+
+// This is group github class practice from Malik 

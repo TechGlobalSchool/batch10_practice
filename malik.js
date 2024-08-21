@@ -9,7 +9,15 @@ function hi(){
   console.log('Hi');
 }
 
-let Malik
+let Malik = 38049
+
+function hi() {
+  console.log(hi)
+}
 
 
 // This is TechGlobal adding for conflict
+// This is group github class practice from Malik 
+
+
+
