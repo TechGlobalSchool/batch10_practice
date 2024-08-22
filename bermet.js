@@ -23,9 +23,10 @@ console.log('This is a test');
 
 console.log('Hello');
 // This is new line
-<<<<<<< HEAD
+
 // This is new line
 // This is a test
-=======
+// This is test2
+// THis is Bermet
 
->>>>>>> master
+
