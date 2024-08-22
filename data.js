@@ -10,6 +10,9 @@ function hi(){
   console.log('Hi');
 }
 
+
+console.log('This is a SECOND test');
+
 console.log('This is a test');
 
 // This is TechGlobal adding for conflict
