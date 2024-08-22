@@ -22,3 +22,7 @@ const fav2 = favSports[1];
 
 console.log(fav1);
 console.log(fav2);
+
+
+
+// new line
