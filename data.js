@@ -9,3 +9,5 @@ function hello(){
 function hi(){
   console.log('Hi');
 }
+
+console.log('This is a SECOND test');
