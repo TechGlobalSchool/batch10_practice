@@ -2,12 +2,26 @@
 // Hi 
 // My name is Jibril
 
+//
+
+
+//
+// Hi habibi 
+
+// Hello
+
+
 function hi(){
   console.log('Hi');
 }
 
+
+
+// new line
+
 // This is TechGlobal adding for conflict
 // This is new line
+
 
 // new line again aybars
 
@@ -15,3 +29,8 @@ function hi(){
 // This is new line
 
 // new line again aybars
+
+//new line
+
+
+
