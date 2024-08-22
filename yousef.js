@@ -11,3 +11,5 @@ let ran = Math.floor(Math.random() * 10) + 1;
 function games() {
     console.log('games');
 }
+
+// new line
