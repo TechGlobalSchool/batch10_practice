@@ -13,6 +13,9 @@ function hi(){
   console.log('Hi');
 }
 
+
+console.log('This is a SECOND test');
+
 console.log('This is a test');
 
 // This is TechGlobal adding for conflict
@@ -20,4 +23,9 @@ console.log('This is a test');
 
 console.log('Hello');
 // This is new line
+<<<<<<< HEAD
+// This is new line
+// This is a test
+=======
 
+>>>>>>> master
