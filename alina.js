@@ -18,3 +18,9 @@ function abc(){
 function random() {
   
 }
+//homework - adding a new line
+
+// This is TechGlobal adding for conflict
+
+// This is new line
+//new alina
