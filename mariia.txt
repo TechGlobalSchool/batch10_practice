@@ -6,9 +6,19 @@ Branches allow you to develop features, fix bugs, or safely experiment with new 
 You always create a branch from an existing branch. Typically, you might create a new branch from the default branch of your repository. You can then work on this new branch in isolation from changes that other people are making to the repository. A branch you create to build a feature is commonly referred to as a feature branch or topic branch.
 
 
+
+// new line 
+
 function hi(){
   console.log('Hi');
 }
 
+
+
+new line 
+
 // This is TechGlobal adding for conflict
 // This is new line
+//new line
+
+
