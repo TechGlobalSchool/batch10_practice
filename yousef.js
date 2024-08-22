@@ -15,6 +15,20 @@ function games() {
     console.log('games');
 }
 
+
+const favSports = [ 'Soccer', 'Basketball' ];
+
+const fav1 = favSports[0];
+const fav2 = favSports[1];
+
+console.log(fav1);
+console.log(fav2);
+
+
+
+// new line
+
 // This is TechGlobal adding for conflict
 // This is new line
 //new line
+
