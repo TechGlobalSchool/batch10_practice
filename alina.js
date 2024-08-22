@@ -7,6 +7,9 @@ console.log('We are learning GitHub');
 console.log('This is a nice class');
 console.log('Hello World');
 
+
+//  new line
+
 function hi(){
   console.log('Hi');
 }
@@ -28,4 +31,5 @@ function random() {
 
 // This is new line
 //new alina
+
 
