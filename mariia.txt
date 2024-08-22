@@ -10,4 +10,6 @@ function hi(){
   console.log('Hi');
 }
 
+hahaha
+
 // This is TechGlobal adding for conflict
