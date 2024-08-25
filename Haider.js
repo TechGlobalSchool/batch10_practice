@@ -1,11 +1,13 @@
 // this is Haider
 
+function hi() {
+  console.log("Hi");
 
 
-// new line
 
 function hi(){
   console.log('Hi');
+
 }
 
 
@@ -21,6 +23,19 @@ console.log('New Branch Haider_D');
 
 // This is new line
 
+
+// this is new line aybars
+
+//
+
+
+// This is new line
+
+// this is new line aybars
+
+//
+=======
 //new line
+
 
 
